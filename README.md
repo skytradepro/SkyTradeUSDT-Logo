@@ -1,43 +1,106 @@
-# SkyTrade USDT (SUSDT) - Official Token Repository
+🌐 SkyTrade USDT (SUSDT) – Official Token Overview
+SkyTrade USDT (SUSDT) is a decentralized, multi-chain stablecoin built on the Binance Smart Chain (BEP-20). It is designed to provide fast, low-fee, and secure transactions for DeFi applications, global payments, and real-world utility, offering full transparency and accessibility across platforms.
 
-## 🔹 Token Details
-- **Name:** SkyTrade USDT (SUSDT)
-- **Symbol:** SUSDT
-- **Blockchain:** Binance Smart Chain (BEP-20)
-- **Contract Address:** [0x1f891D25A386e6F67ead37d9BFAf5C444213a134](https://bscscan.com/token/0x1f891D25A386e6F67ead37d9BFAf5C444213a134)
-- **Decimals:** 18
+📌 Token Information
+Token Name: SkyTrade USDT
 
----
+Token Symbol: SUSDT
 
-## 🔹 About SkyTrade USDT
-SkyTrade USDT (SUSDT) is a **multi-chain stable token** designed for **seamless trading and liquidity** across decentralized finance (**DeFi**) platforms.
-- It enables **efficient transactions**
-- Supports **bridging between different blockchains**
-- Provides **liquidity for DeFi applications**
+Contract Address (BSC): 0x1f891D25A386e6F67ead37d9BFAf5C444213a134
 
----
+Decimals: 18
 
-## 🔹 Official Links
-- **GitHub:** [SkyTradeUSDT-Logo Repository](https://github.com/skytradepro/SkyTradeUSDT-Logo)
-- **PancakeSwap:** [Trade SUSDT on PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x1f891D25A386e6F67ead37d9BFAf5C444213a134)
-- **BscScan:** [View SUSDT on BscScan](https://bscscan.com/token/0x1f891D25A386e6F67ead37d9BFAf5C444213a134)
-- **Telegram:** Coming Soon
+Total Supply: 100,000,000 SUSDT
 
----
+Burned Supply: 1,000,000 SUSDT
 
-## 🔹 Additional Information
-- **Liquidity:** ✅ **SUSDT is supported on PancakeSwap** with an active liquidity pool.
-- **Bridging:** 🔄 **Multi-chain bridging will be enabled soon** to support cross-chain functionality.
-- **Security Audits:** 🔐 **Contract verification and security audits** will be provided in future updates.
+Current Liquidity: Live on PancakeSwap V2
 
----
+Explorer Link: View on BscScan
 
-## 🔹 Disclaimer
-This repository contains **official details** about SkyTrade USDT (**SUSDT**).
-✅ Always **verify contract addresses** before interacting with any token.
-🚀 This documentation is **for informational purposes only** and **does not constitute financial advice.**
+💡 Project Mission
+SkyTrade’s mission is to redefine decentralized stablecoin utility by making SUSDT a trusted medium for secure payments, swaps, and cross-border transfers. The project is committed to financial accessibility, stable value, and broad community participation without volatility.
 
----
+🔑 Core Features
+✅ Stable USD value with 1:1 utility backing
 
-✅ **Now, copy this and commit it to your GitHub!**
-📌 Let me know when you’ve updated it or if you need any modifications! 🚀
+🔁 Multi-chain support (Ethereum, Polygon, future expansion)
+
+🧠 Smart contract verified and transparent on BscScan
+
+⚡ Lightning-fast swaps with low gas fees
+
+💳 Real-world payment compatibility
+
+🔐 100% decentralized, no centralized control
+
+📱 Visible and usable in all major crypto wallets
+
+📈 Roadmap (2025)
+Phase	Goals
+✅ Q1	Contract Deployment, Token Burn, Website Launch
+✅ Q2	PancakeSwap V2 Listing, Trust Wallet Logo Update
+🔄 Q2/Q3	CoinGecko & CoinMarketCap Listing Update
+🔜 Q3	Launch SkyTrade Reward Program & Lock Liquidity
+🔜 Q4	Launch Bridge to Ethereum & Polygon
+🚀 2026	Full SkyTrade DApp Launch & Exchange Listings
+👨‍💼 Project Leadership
+Founder: R. Ramzi Sahbani
+
+Location: Paris, France
+
+Identity Verification: ✅ Completed
+
+KYC Status: Verified
+
+Contact Email: admin@skytradepro.com
+
+GitHub: SkyTradePro
+
+LinkedIn: SkyTradePro Team
+
+🌍 Official Project Links
+🌐 Website: https://pro.skytradepro.com
+
+📄 Whitepaper: SkyTrade Whitepaper
+
+🔁 PancakeSwap Pair: SUSDT/BNB V2
+
+📘 BscScan Token Page: View on BscScan
+
+📢 Bitcointalk Announcement: SkyTrade SUSDT Thread
+
+📺 YouTube: SkyTrade Channel
+
+🧵 Twitter (X): @SkytradeSUSDT
+
+💬 Telegram: @skytradeproteam
+
+📷 Instagram: SkyTradePro
+
+📘 Facebook: SkyTrade Facebook
+
+🧑‍💻 Reddit: u/skytradeproofficial
+
+💼 Slack: SkyTrade Slack
+
+🔗 OpenSea NFTs: SkyTrade Collection
+
+📚 GitHub Repository: SkyTradeUSDT-Logo
+
+🧠 Use Cases & Utility
+💱 Peer-to-peer transactions and stable payments
+
+💸 Integration with DeFi swaps and farming protocols
+
+🌍 Cross-border merchant payments and microtransactions
+
+🎁 Rewards distribution & affiliate earning system
+
+🔐 Locked liquidity and future bridge support
+
+💬 Get Involved
+SkyTrade is an open community. We welcome contributors, promoters, and DeFi enthusiasts who want to support a secure and transparent stablecoin project.
+
+📩 For partnership inquiries or support, please contact: admin@skytradepro.com
+
