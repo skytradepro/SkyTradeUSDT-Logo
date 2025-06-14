@@ -104,3 +104,16 @@ SkyTrade is an open community. We welcome contributors, promoters, and DeFi enth
 
 📩 For partnership inquiries or support, please contact: admin@skytradepro.com
 
+## 👥 SkyTrade Pro Core Team
+
+| Name                  | Role                               | Profile Link                                  |
+|-----------------------|------------------------------------|-----------------------------------------------|
+| Ramzi Sahbani         | Founder & Project Lead             | [LinkedIn](https://www.linkedin.com/in/ramzi-sahbani-8a8ba8268/) |
+| Ankit Sharma          | Smart Contract Developer (Solidity)| [GitHub](https://github.com/ankitsharma-dev)  |
+| Youssef El Amrani     | Blockchain Security Analyst        | [LinkedIn](https://www.linkedin.com/in/youssef-el-amrani) |
+| Claire Moreau         | DeFi Research & Strategy           | [LinkedIn](https://www.linkedin.com/in/clairemoreau) |
+| Aamir Khan            | Backend Developer – Web3           | [GitHub](https://github.com/aamirkhanweb3)     |
+| Lina Bouchra          | Marketing & Community Lead         | [LinkedIn](https://www.linkedin.com/in/linabouchra) |
+| Deepak Verma          | Data Analyst & Tokenomics Advisor  | [GitHub](https://github.com/deepak-verma99)    |
+
+> 🌐 We are a multicultural, decentralized team from across the globe, working together to build secure, scalable, and intelligent DeFi solutions powered by SkyTrade Pro (SUSDT).
