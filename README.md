@@ -140,6 +140,14 @@ Team details, roadmap updates, and platform features are published progressively
 > 📌 This roadmap is indicative and evolves responsibly as the project grows.
 
 ---
+## 👥 Team
+
+The SkyTrade Pro (SUSDT) project is developed and managed by a transparent, publicly presented team.
+
+👉 **Meet the team:**  
+https://github.com/skytradepro/SkyTradeUSDT-Logo/blob/main/TEAM.md
+
+
 
 ## 📩 Contact
 
