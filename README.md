@@ -1,68 +1,58 @@
-🌐 SkyTrade Pro (SUSDT) — Official Token Overview
-SkyTrade Pro (SUSDT) is a decentralized utility token deployed on BNB Chain (BEP-20), designed with a strong focus on transparency, security, and long-term ecosystem development.
-The project prioritizes open verification, locked liquidity, and multisignature treasury control to ensure user confidence and sustainable growth.
+SkyTrade Pro (SUSDT) — Official Project Overview
+SkyTrade Pro (SUSDT) is a decentralized crypto project built on BNB Chain (BEP-20), focused on transparency, security, and long-term ecosystem development.
+The project is designed to grow organically, without artificial volume, fake liquidity, or misleading promises.
+SkyTrade Pro is not only a token — it is the foundation of a broader platform currently under active development.
+🔹 Project Philosophy
+We believe in:
+Real on-chain transparency
+Gradual, organic growth
+Clear communication with the community
+Long-term utility over short-term hype
+Liquidity and activity are growing step by step, in line with the early stage of the project.
 📌 Token Information
 Token Name: SkyTrade Pro
 Symbol: SUSDT
 Network: BNB Chain (BEP-20)
-Contract Address: 0x1f891D25A386e6F67ead37d9BFAf5C444213a134
+Contract Address:
+0x1f891D25A386e6F67ead37d9BFAf5C444213a134
 Decimals: 18
-Liquidity: Live on PancakeSwap (BNB Chain)
-🔎 Explorer:
-https://bscscan.com/token/0x1f891D25A386e6F67ead37d9BFAf5C444213a134�
-🎯 Project Mission
-SkyTrade Pro aims to build a transparent and community-driven DeFi ecosystem by providing a secure token infrastructure that can support future utilities such as rewards, platform access, and decentralized financial services.
-The project is developed with a long-term vision, avoiding short-term speculation and prioritizing verifiable on-chain trust.
-🔑 Core Principles
-🔍 Fully verifiable smart contract on BscScan
-🔐 Liquidity locked via DxLock
-🧾 Multisignature wallet for team and treasury funds
-🌱 Community-first, open-source approach
-📊 Public tracking and transparency across platforms
-🔒 Security & Liquidity
-DEX: PancakeSwap (BNB Chain)
+🔍 BscScan:
+https://bscscan.com/token/0x1f891d25a386e6f67ead37d9bfaf5c444213a134�
+📊 Market & Tracking
+CoinMarketCap (Official Page):
+https://coinmarketcap.com/currencies/skytrade-pro/�
+CoinMarketCap DEX (BSC):
+https://dex.coinmarketcap.com/token/bsc/0x1f891d25a386e6f67ead37d9bfaf5c444213a134/�
+GeckoTerminal Pool:
+https://www.geckoterminal.com/bsc/pools/0xfd18da0e5d05dae2ddb3e711e7e77ef2d553367c�
+🔒 Liquidity & Security
+Liquidity Pool: Live on PancakeSwap
 Liquidity Lock (DxLock):
 https://www.dx.app/dxlock/view/liquidity-locker?address=0xA116A1325bf888E79ECFcB832c9C91655233a18a&chain=56�
-Multisignature Treasury Wallet:
-0x117cd7dFAd33a7C721A1Af505a02755D7E7C5bdB
-🗺️ Roadmap (High-Level)
-2025
-✅ Smart contract deployment
-✅ Website launch
-✅ PancakeSwap liquidity
-✅ Logo & metadata submission (wallets)
-🔄 CoinMarketCap & CoinGecko tracking updates
-🔒 Long-term liquidity lock
-2026
-🚀 SkyTrade platform utilities
-🌉 Cross-chain research & expansion
-📈 Ecosystem partnerships
-👨‍💼 Project Leadership
+Team / Treasury Wallet: Protected by multisignature
+Smart Contract: Verified and publicly auditable
+🌐 Official Website
+https://pro.skytradepro.com�
+📄 Whitepaper
+https://docs.google.com/document/d/1zHvkrYtMucv_mQCIoBIZbnVdiC9bI0DDzX1-VACvtaM/edit�
+🌍 Official Social Media
+Telegram: https://t.me/skytradeproteam
+X (Twitter): https://x.com/SkyTradeSUSDT�
+Instagram: https://www.instagram.com/skytradeofficialsusdt�
+LinkedIn (Project): https://www.linkedin.com/in/skytradepro-susdt-8a8ba8268/�
+LinkedIn (Founder): https://www.linkedin.com/in/ramzi-sahbani-8a8ba8268/�
+Medium: https://medium.com/@skytradeproSUSDT�
+GitHub: https://github.com/skytradepro�
+Bitcointalk: https://bitcointalk.org/index.php?topic=5536989.0
+👤 Project Leadership
 Founder & Project Lead: Ramzi Sahbani
-Role: Strategy, product direction, and transparency oversight
-Identity Verification: Completed
-Contact: admin@skytradepro.com
-👥 SkyTrade Pro Core Team
-The SkyTrade Pro team operates as a decentralized and collaborative group, contributing across development, security, analytics, and community growth.
-Name
-Role
-Ramzi Sahbani
-Founder & Project Lead
-Core Contributors
-Smart Contract & Infrastructure
-Security Contributors
-Contract Review & Monitoring
-Community Team
-Marketing & Community Support
-(Detailed individual profiles are shared when required by partners or platforms.)
-🌍 Official Links
-🌐 Website: https://pro.skytradepro.com�
-📄 Whitepaper: https://docs.google.com/document/d/1zHvkrYtMucv_mQCIoBIZbnVdiC9bI0DDzX1-VACvtaM/edit�
-📊 CoinMarketCap (DEX): https://dex.coinmarketcap.com/token/bsc/0x1f891D25A386e6F67ead37d9BFAf5C444213a134�
-💬 Telegram: https://t.me/skytradeproteam�
-🧵 X (Twitter): https://x.com/SkyTradeSUSDT�
-📘 GitHub: https://github.com/skytradepro�
-🤝 Get Involved
-SkyTrade Pro is an open ecosystem.
-Developers, researchers, and community members are welcome to contribute, review, and participate in the project’s growth.
-📩 Contact: admin@skytradepro.com
+Focus: Long-term platform development, transparency, and compliance
+Team details, roadmap, and platform features will be updated progressively on the website and official channels.
+🚧 Current Status
+✅ Officially listed on CoinMarketCap
+🔄 Liquidity and volume growing organically
+🔧 Platform development in progress
+🧭 Roadmap and expanded team pages coming soon
+📩 Contact
+For partnerships, exchanges, or official inquiries:
+admin@skytradepro.com
