@@ -187,6 +187,18 @@ SkyTrade Pro (SUSDT) is publicly verifiable and supported by transparent on-chai
 - 🥞 PancakeSwap: https://pancakeswap.finance/swap?outputCurrency=0x1f891D25A386e6F67ead37d9BFAf5C444213a134
 
 
+## 🟢 Official SkyTrade Pro (SUSDT) Logo
+
+This repository hosts the **official SVG logo** for **SkyTrade Pro (SUSDT)**.  
+The logo is **text-free**, scalable, and suitable for listings and platforms.
+
+🔗 **Official Logo (SVG – Raw/CDN):**  
+https://cdn.jsdelivr.net/gh/skytradepro/SkyTradeUSDT-Logo@main/Logo.svg
+
+**Format:** SVG  
+**Background:** Transparent  
+**Usage:** CoinMarketCap, CoinGecko, wallets, website, social media
+
 ## 📩 Contact
 
 For partnerships, exchanges, or official inquiries:  
