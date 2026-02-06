@@ -149,20 +149,33 @@ https://github.com/skytradepro/SkyTradeUSDT-Logo/blob/main/TEAM.md
 
 
 
-🔧 Platform & Ecosystem Support
-SkyTrade Pro (SUSDT) is supported by an active and proprietary platform that is live and continuously evolving.
-The SkyTrade platform infrastructure includes:
-User registration and account management
-Secure admin and system dashboards
-Investment and trading management modules
-Copy trading & signal provider framework
-CRM and user communication tools
-Educational (LMS-ready) structure
-Crypto asset management and swap-ready architecture
-The platform is developed progressively with a strong focus on security, scalability, and real-world usability.
-All features are deployed and expanded responsibly in alignment with the project’s organic growth strategy.
-🔗 Platform access: https://pro.skytradepro.com�
-📝 User registration: https://pro.skytradepro.com/register�
+## 🧩 Platform & Ecosystem Support
+
+SkyTrade Pro (SUSDT) is backed by an **active and proprietary trading platform** that is live and continuously evolving.  
+The platform represents the practical foundation of the SkyTrade ecosystem and supports real user activity.
+
+### Core Platform Features
+- 👤 User registration & account management  
+- 🛡️ Secure admin & system dashboards  
+- 📈 Investment & trading management modules  
+- 🔁 Copy trading & signal provider framework  
+- 💬 CRM & user communication tools  
+- 🎓 Educational infrastructure (LMS-ready)  
+- 🔄 Crypto asset management & swap-ready architecture  
+
+The platform is developed **progressively**, with a strong focus on:
+- Security  
+- Scalability  
+- Real-world usability  
+
+All features are deployed responsibly and aligned with the project’s **organic growth strategy**.
+
+🔗 **Platform access:**  
+https://pro.skytradepro.com
+
+📝 **User registration:**  
+https://pro.skytradepro.com/register
+
 
 
 
