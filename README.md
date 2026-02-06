@@ -56,3 +56,45 @@ Team details, roadmap, and platform features will be updated progressively on th
 📩 Contact
 For partnerships, exchanges, or official inquiries:
 admin@skytradepro.com
+
+
+
+---
+
+## 🗺️ Roadmap – SkyTrade Pro (SUSDT)
+
+SkyTrade Pro is being developed with a long-term vision, focusing on transparency, organic growth, and real utility.  
+All milestones are approached carefully and without artificial hype.
+
+### Phase 1 – Foundation ✅
+- Smart contract deployment on BNB Chain (BEP-20)
+- Initial token burn
+- Official logo & branding creation
+- Website launch
+- PancakeSwap V2 liquidity pool live
+- BscScan contract verification
+
+### Phase 2 – Visibility & Trust 🔄
+- CoinMarketCap listing live
+- MetaMask contract metadata integration
+- Logo update (transparent, text-free version)
+- GitHub documentation improvements
+- Organic community growth
+
+### Phase 3 – Stability & Expansion 🔜
+- Liquidity lock certification
+- Trust Wallet asset submission
+- CoinGecko listing update
+- Community engagement & reward initiatives
+
+### Phase 4 – Ecosystem Growth 🚀
+- Multi-chain bridge preparation (Ethereum & Polygon)
+- Strategic partnerships
+- Platform feature expansion
+
+### Phase 5 – Platform Vision 🌐
+- SkyTrade platform & DApp development
+- Real-world payment use cases
+- Long-term DeFi ecosystem growth
+
+📌 *This roadmap is indicative and will evolve as the project grows responsibly and transparently.*
