@@ -1,49 +1,49 @@
 # 👥 SkyTrade Pro (SUSDT) – Core Team
 
-SkyTrade Pro is built by a multidisciplinary team with experience in blockchain, product development, marketing, compliance, and business strategy.  
+SkyTrade Pro is built by a multidisciplinary team with experience in blockchain, product development, marketing, compliance, and business strategy.
 The team focuses on transparency, long-term growth, and responsible ecosystem development.
 
 ---
 
-### 🧑‍💼 Ramzi Sahbani  
+### 🧑‍💼 Ramzi Sahbani
 **Founder & Project Lead**  
-Leads project vision, strategy, partnerships, and overall platform roadmap with a strong focus on transparency and sustainable development.
+Leads project vision, strategy, partnerships, and the overall platform roadmap with a strong focus on transparency and sustainable development.
 
 ---
 
-### 🧩 Aziz Annabi  
+### 🤝 Selim Uzun
+**Business Development & Partnerships Lead**  
+Leads strategic partnerships, business expansion, and institutional outreach to support long-term ecosystem growth.
+
+---
+
+### 🔗 Hafeth Malaoui
+**Blockchain Development Lead**  
+Oversees smart contract development, blockchain integrations, security audits, and continuous technical improvements.
+
+---
+
+### 🌍 Hajar Hammam
+**Marketing & Community Director**  
+Drives community engagement, social media strategy, and international outreach initiatives.
+
+---
+
+### 🧩 Aziz Annabi
 **Product, Digital & PR Lead**  
 Oversees product strategy, digital experience, brand positioning, and public relations for SkyTrade Pro.
 
 ---
 
-### 📣 Hamdi Ghaleb  
+### 📣 Hamdi Ghaleb
 **Marketing & Community Director**  
-Responsible for community growth, global marketing campaigns, and investor engagement strategies.
+Responsible for community growth, outreach campaigns, and global marketing strategies.
 
 ---
 
-### 🌍 Hajar Hammam  
-**Marketing & Community Director**  
-Focuses on community engagement, social media strategy, and international outreach initiatives.
-
----
-
-### ⚖️ Lina Valova  
+### ⚖️ Lina Valova
 **Legal & Compliance Advisor**  
-Handles legal documentation, compliance frameworks, and alignment with international regulatory standards.
-
----
-
-### 🤝 Selim Uzun  
-**Business Development & Partnerships Lead**  
-Leads strategic partnerships, business expansion, and institutional outreach.
-
----
-
-### 🔗 Hafeth Malaoui  
-**Blockchain Development Lead**  
-Oversees smart contract development, blockchain integrations, and technical security improvements.
+Handles legal documentation, KYC/AML processes, and ensures alignment with international regulatory standards.
 
 ---
 
