@@ -177,7 +177,14 @@ https://pro.skytradepro.com
 https://pro.skytradepro.com/register
 
 
+## 🔐 Trust & Validation
 
+SkyTrade Pro (SUSDT) is publicly verifiable and supported by transparent on-chain infrastructure.
+
+- 📊 CoinMarketCap: https://coinmarketcap.com/currencies/skytrade-pro/
+- 🔍 BscScan: https://bscscan.com/token/0x1f891d25a386e6f67ead37d9bfaf5c444213a134
+- 🔒 Liquidity Lock (DxLock): https://www.dx.app/dxlock/view/liquidity-locker?address=0xA116A1325bf888E79ECFcB832c9C91655233a18a&chain=56
+- 🥞 PancakeSwap: https://pancakeswap.finance/swap?outputCurrency=0x1f891D25A386e6F67ead37d9BFAf5C444213a134
 
 
 ## 📩 Contact
