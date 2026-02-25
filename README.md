@@ -125,6 +125,34 @@ https://www.geckoterminal.com/bsc/pools/0xfd18da0e5d05dae2ddb3e711e7e77ef2d55336
 
 ---
 
+## Smart Contracts
+
+BNB Chain (BEP-20)
+Contract:
+0x1f891D25A386e6F67ead37d9BFAf5C444213a134
+
+Ethereum (ERC-20)
+Contract:
+0xC825aA30e0D301b920BF86a7395A7ebaAF315323
+
+
+## About SkyTrade Pro (SUSDT)
+
+SkyTrade Pro (SUSDT) is a multichain digital asset deployed on BNB Chain and Ethereum, designed to support decentralized trading, liquidity growth, and cross-chain interoperability.
+
+The project focuses on:
+• Multichain expansion strategy  
+• Liquidity building and stability  
+• Smart contract security and audit  
+• KYC verification  
+• Future bridge infrastructure  
+• Centralized and decentralized exchange integrations  
+
+SkyTrade Pro aims to build a scalable ecosystem connecting DeFi, trading utilities, and real-world financial tools.
+
+
+
+
 ## 🌐 Official Resources
 
 **Website:**  
