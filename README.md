@@ -159,7 +159,7 @@ SkyTrade Pro aims to build a scalable ecosystem connecting DeFi, trading utiliti
 https://pro.skytradepro.com
 
 **Whitepaper:**  
-https://docs.google.com/document/d/1zHvkrYtMucv_mQCIoBIZbnVdiC9bI0DDzX1-VACvtaM/edit
+https://github.com/skytradepro/SUSDT/blob/main/SkyTrade-Pro-Whitepaper-v4.0.pdf
 
 ---
 
